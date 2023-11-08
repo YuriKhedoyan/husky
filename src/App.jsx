@@ -1,8 +1,8 @@
 import React from "react";
 
 const App = () => {
-  const a = 'test'
-  console.log(a)
+  const b = 'test'
+  console.log(b)
 
   return (
     <>
